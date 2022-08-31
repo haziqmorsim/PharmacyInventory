@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PharmacyInventory</string>
+    <string name="product_name_hint">Enter the product name:</string>
+    <string name="product_name_label">Product name:</string>
+    <string name="product_details_label">Product details:</string>
+    <string name="product_restocked_label">Restocked</string>
+    <string name="welcome">Welcome to the pharmacy inventory!</string>
+    <string name="input_username_hint">Username</string>
+    <string name="input_password_hint">Password</string>
+    <string name="date_picker_title">Date of restock:</string>
+    <string name="new_product">New Product</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d products</string>
+    <string name="product_supplier_text">Choose Supplier</string>
+    <string name="product_report_text">Send Product Report</string>
+    <string name="product_report">%1$s!
+        The product was restocked on %2$s. %3$s, and %4$s
+    </string>
+    <string name="product_report_restocked">The product is restocked.</string>
+    <string name="product_report_outOfStock">The product is out of stock.</string>
+    <string name="product_report_no_supplier">There is no supplier.</string>
+    <string name="product_report_supplier">The supplier is %s.</string>
+    <string name="product_report_subject">PharmacyInventory Stock Report</string>
+    <string name="send_report">Send stock report via</string>
+</resources>
